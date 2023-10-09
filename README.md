@@ -35,7 +35,7 @@ The database consists of 3 tables:
 
 The script revolves around Cassie's doctor's visit and the subsequent fallout due to the oversight in database relations. It underscores the real-world implications of technical oversights.
 
-To view the script, check the ‘script.txt’ file in the main directory.
+To view the script, check the ‘Database Keys Script.pdf’ file in the main directory.
 To view the visual slides that went along with the script [click here](https://docs.google.com/presentation/d/1yJslg4BhOvyq-TIjiY7U-Y4cfHts_EEKuChUU1j_x8g/edit#slide=id.p).
 
 ## Technical Deep Dive
