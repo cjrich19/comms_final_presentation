@@ -25,10 +25,10 @@ Cassie's story unfolds through multiple scenarios, each highlighting the signifi
 
 The database consists of 3 tables:
 
-1. **Patient**: Includes information about patients, features include name, address, height, weight, and diseases. The schema and relationships can be examined in ‘scenario1.py’.
-2. **Patient Health History**: Holds general patient health history information, including records of known patient allergies. The schema and relationships can be examined in ‘scenario2.py’.
-3. **Appointments Table**: Contains details about patient appointments, diagnoses, and prescriptions. The schema and relationships can be examined in ‘scenario2.sql’.
-4. **Doctors Table**: Hold information about the doctors within the practice. Their names and specialties. The schema and relationships can be examined in ‘scenario4.sql’
+1. **Patient**: Includes information about patients, features include name, address, height, weight, and diseases. The schema and relationships can be examined in ‘scenario1.sql’ and 'scenario4.sql'.
+2. **Patient Health History**: Holds general patient health history information, including records of known patient allergies. The schema and relationships can be examined in ‘scenario2.sql’.
+3. **Appointments Table**: Contains details about patient appointments, diagnoses, and prescriptions. The schema and relationships can be examined in ‘scenario2.sql’, 'scenario3.sql, and 'scenario4.sql'.
+4. **Doctors Table**: Hold information about the doctors within the practice. Their names and specialties. The schema and relationships can be examined in 'scenario3.sql' and ‘scenario4.sql’.
 
 
 ## The Script
